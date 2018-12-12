@@ -2,7 +2,7 @@ p, h1, h2, h3{
   font-family: Helvetica;
 }
 h2{
-  fonz-size: 32px;
+  font-size: 32px;
   font-weight: bold;
   color: white;
 }
@@ -27,8 +27,16 @@ h1{
   color:blue;
 }
 .heading {
-    background-image: url("C:/Users/FBLUNK/Documents/C_Code/Dasmoto's Arts and Craft/img/pattern.jpeg");
+    background-image: url("../img/pattern.jpeg");
     background-color: #CCCCCC;
     background-position: center;
     background-repeat: no-repeat;
+}
+.brush{
+  background-image: url("../img/hacksaw.jpeg");
+  background-color: seagreen;
+  background-position: left;
+  background-size: cover;
+  width: 400px;
+  height: 400px;
 }
